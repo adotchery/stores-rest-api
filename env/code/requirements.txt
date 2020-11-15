@@ -2,4 +2,4 @@ Flask
 Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
-Python == 3.6.12
+gunicorn
