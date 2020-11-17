@@ -1,1 +1,1 @@
-web: gunicorn --chdir env/code/ app:app
+web: gunicorn --chdir env/code/ run:app
